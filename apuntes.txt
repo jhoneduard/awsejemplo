@@ -1,0 +1,19 @@
+1.creamos el paquete de vistas
+---> composer require laravel/jetstream
+
+2.Instalamos livewire
+php artisan jetstream:install livewire
+
+3. Ejecutamos nodejs
+sudo npm install
+sudo npm run dev
+
+4.ejecutamos migraciones
+php artisan migrate
+
+        Ejecutar git (en la ruta del proyecto)
+1.git init
+2. git add .
+3.  git commit -m "Primer commit"
+
+
